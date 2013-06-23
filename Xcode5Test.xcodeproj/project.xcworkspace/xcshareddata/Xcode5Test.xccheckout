@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>76A98F55-5CE2-468B-98CE-15167CA0EACC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Xcode5Test</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EFD4AEAA-0E9E-4154-90BE-C8B6AD9AAEB0</key>
+		<string>ssh://github.com/vend-xcode/Xcode5Test.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Xcode5Test.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EFD4AEAA-0E9E-4154-90BE-C8B6AD9AAEB0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/vend-xcode/Xcode5Test.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EFD4AEAA-0E9E-4154-90BE-C8B6AD9AAEB0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EFD4AEAA-0E9E-4154-90BE-C8B6AD9AAEB0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Xcode5Test</string>
+		</dict>
+	</array>
+</dict>
+</plist>
